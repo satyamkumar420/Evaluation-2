@@ -35,7 +35,9 @@ body {
 li {
   padding: 10px;
 }
-
+.nav_items > button {
+  padding: 10px 20px;
+}
 button {
   cursor: pointer;
   outline: none;
